@@ -1,0 +1,11 @@
+{
+  "name": "small-jaw-js",
+  "version": "1.0.1",
+  "description": "Coppyright PHP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "phpcore",
+  "license": "ISC"
+}
